@@ -14,11 +14,9 @@ We offer two different versions now:
 
 Hosts (Normal) version:
 
-Provided by flymc.cc(recommended): https://deliver.flymc.cc/rules/sophie.txt
+jsDelivr: https://gcore.jsdelivr.net/gh/paperbab/Sophie-List@latest/sophie.txt
 
-jsDelivr: https://cdn.jsdelivr.net/gh/Natsuki-Kaede/Sophie-List@latest/sophie.txt
-
-raw: https://raw.githubusercontent.com/Natsuki-Kaede/Sophie-List/main/sophie.txt
+raw: https://raw.githubusercontent.com/paperbab/Sophie-List/main/sophie.txt
 
 Or you can copy them into your hosts XD.
 
@@ -28,11 +26,9 @@ And now we add an advanced version after [`ec2817c`](https://github.com/Natsuki-
 
 Advanced version (Requires ublock origin / AdGuard / AdBlockPlus support) :
 
-Provided by flymc.cc(recommended): https://deliver.flymc.cc/rules/sophie-advanced.txt
+jsDelivr: https://gcore.jsdelivr.net/gh/paperbab/Sophie-List@latest/sophie-advanced.txt
 
-jsDelivr: https://cdn.jsdelivr.net/gh/Natsuki-Kaede/Sophie-List@latest/sophie-advanced.txt
-
-raw: https://raw.githubusercontent.com/Natsuki-Kaede/Sophie-List/main/sophie-advanced.txt
+raw: https://raw.githubusercontent.com/paperbab/Sophie-List/main/sophie-advanced.txt
 
 # Credits
 
