@@ -3,7 +3,7 @@
 ! Description: universal all-in-one AD filtering rules.
 ! Homepage: https://github.com/paperbab/Sophie-List
 ! License: GPLv2
-! Last modified: 2025-07-20T01:04:39.068Z
+! Last modified: 2025-07-20T01:13:09.768Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.39
 !
