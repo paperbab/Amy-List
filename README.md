@@ -1,6 +1,6 @@
-# Sophie-List
+# Amy-List
 
-Simple, universal all-in-one AD filtering rules.
+Simple, universal AD filtering rules guided by Rhodes Island.
 
 简单，通用的多合一广告过滤规则.
 
@@ -14,9 +14,9 @@ We offer two different versions now:
 
 Hosts (Normal) version:
 
-jsDelivr: https://gcore.jsdelivr.net/gh/paperbab/Sophie-List@latest/sophie.txt
+jsDelivr: https://gcore.jsdelivr.net/gh/paperbab/Amy-List@latest/amy.txt
 
-raw: https://raw.githubusercontent.com/paperbab/Sophie-List/main/sophie.txt
+raw: https://raw.githubusercontent.com/paperbab/Amy-List/main/amy.txt
 
 Or you can copy them into your hosts XD.
 
@@ -26,9 +26,9 @@ And now we add an advanced version after [`ec2817c`](https://github.com/Natsuki-
 
 Advanced version (Requires ublock origin / AdGuard / AdBlockPlus support) :
 
-jsDelivr: https://gcore.jsdelivr.net/gh/paperbab/Sophie-List@latest/sophie-advanced.txt
+jsDelivr: https://gcore.jsdelivr.net/gh/paperbab/Amy-List@latest/amy-advanced.txt
 
-raw: https://raw.githubusercontent.com/paperbab/Sophie-List/main/sophie-advanced.txt
+raw: https://raw.githubusercontent.com/paperbab/Amy-List/main/amy-advanced.txt
 
 # Credits
 
